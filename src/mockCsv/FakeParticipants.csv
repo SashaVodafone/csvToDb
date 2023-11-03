@@ -1,0 +1,16 @@
+﻿iD,email,name,position,area,shirtSize,dietRequirements,canLead,canFund
+1,email1,Person1,Position1,Area1,XS,No,Yes,Yes
+2,email2,Person2,Position2,Area2,S,No Lactose,No,No
+3,email3,Person3,Position3,Area3,M,No,No,Yes
+4,email4,Person4,Position4,Area4,L,No,Maybe,No
+5,email5,Person5,Position5,Area5,XL,No,Yes,Yes
+6,email6,Person6,Position6,Area6,XXL,Vegetarian,No,No
+7,email7,Person7,Position7,Area7,XS,No,Yes,Yes
+8,email8,Person8,Position8,Area8,S,No Gluten,No,No
+9,email9,Person9,Position9,Area9,M,No,No,Yes
+10,email10,Person10,Position10,Area10,L,No,Maybe,No
+11,email11,Person11,Position11,Area11,XL,No,Yes,Yes
+12,email12,Person12,Position12,Area12,XXL,Vegetarian,No,No
+13,email13,Person13,Position13,Area13,XS,No,Yes,Yes
+14,email14,Person14,Position14,Area14,S,Vegan,Maybe,Yes
+15,email15,Person15,Position15,Area15,M,No,Maybe,Yes
